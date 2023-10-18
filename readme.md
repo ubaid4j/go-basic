@@ -1,6 +1,7 @@
 ### How to execute the Project
 - `go get .` to get all deps
 - `go run .` to run the project (8080)
+- `go test .` to run the tests
 
 ### Interaction with Project
 - `curl http://localhost:8080/albums` to get a list of albums
