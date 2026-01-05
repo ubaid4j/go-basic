@@ -8,7 +8,7 @@ I am using this [book](https://www.amazon.com/Mastering-Go-professional-utilitie
   - It will produce a statically linked binary file that can be executed in shell.
 - `go run fileName`
   - It will simply run the program.
-Note: Make sure the `main` method file should contains `package main` in first line. 
+Note: Make sure the `main` method file should contain `package main` in first line. 
 
 ### How to execute the Project
 - `go get .` to get all deps
