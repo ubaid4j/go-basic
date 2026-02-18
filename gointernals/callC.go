@@ -1,6 +1,6 @@
 package main
 
-// #cgo CFLAGS: -I{SRCDIR}/callClib
+// #cgo CFLAGS: -I${SRCDIR}/callClib
 // #cgo LDFLAGS: ${SRCDIR}/callC.a
 // #include <stdlib.h>
 // #include <callC.h>
