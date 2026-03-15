@@ -10,6 +10,11 @@ I am using this [book](https://www.amazon.com/Mastering-Go-professional-utilitie
   - It will simply run the program.
 Note: Make sure the `main` method file should contain `package main` in first line. 
 
+### To install a package globally for a user
+- `mkdir -p /home/ubaid/sdk/{go-version}/src/{package-name}`
+- `cp goFile  /home/ubaid/sdk/{go-version}/src/{package-name}/`
+- `go install package-name`
+
 ### How to execute the Project
 - `go get .` to get all deps
 - `go run .` to run the project (8080)
