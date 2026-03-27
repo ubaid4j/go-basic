@@ -1,3 +1,5 @@
+github.com/Arafatk/glot v0.0.0-20230425001707-a00521b72ee4 h1:tTl76UtV0KnHdcIxHAhq31NNO/B/r0+LnPsvUoIntk4=
+github.com/Arafatk/glot v0.0.0-20230425001707-a00521b72ee4/go.mod h1:o0O8gFiTfVp4g5QcQJ1iMLw6ROiy9BITaiBbEiwz9h8=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
 github.com/bytedance/sonic v1.9.1 h1:6iJ6NqdoxCDr6mbY8h18oSO+cShGSMRGCEo7F2h0x8s=
 github.com/bytedance/sonic v1.9.1/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZXU064P/U=
